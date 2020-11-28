@@ -1,2 +1,3 @@
-# codility
-Solutions to Codility lessons
+# Codility Lesson solutions
+
+These are my solutions to the Codility lessons.
