@@ -1,4 +1,4 @@
-package net.davekirkwood.codility.lessons;
+package net.davekirkwood.codility.lessons.iterations;
 
 public class BinaryGap {
 

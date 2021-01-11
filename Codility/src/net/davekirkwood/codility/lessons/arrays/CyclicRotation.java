@@ -1,4 +1,4 @@
-package net.davekirkwood.codility.lessons;
+package net.davekirkwood.codility.lessons.arrays;
 
 public class CyclicRotation {
 

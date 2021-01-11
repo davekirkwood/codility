@@ -1,4 +1,4 @@
-package net.davekirkwood.codility.lessons;
+package net.davekirkwood.codility.lessons.arrays;
 import java.util.HashSet;
 
 public class OddOccurencesInArray {
