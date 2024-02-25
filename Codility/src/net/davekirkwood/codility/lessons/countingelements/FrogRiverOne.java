@@ -19,13 +19,14 @@ public class FrogRiverOne {
       	}
       }
       return -1;
+   	
    }
    
    public static void main(String[] args) {
    	
    	FrogRiverOne fro = new FrogRiverOne();
    	
-   	System.out.println(fro.solution(5, new int[] { 1,3,1,4,2,3,5,4 } ));
+   	System.out.println(fro.solution(5, new int[] { 1,3,1,4,2,3,4,1,5 } ));
    	System.out.println(fro.solution(1, new int[] { 1 } ));
 
    	

@@ -31,7 +31,9 @@ public class MinAbsSumOfTwo {
 	}
 
 	public static void main(String[] args) {
-		System.out.println(new MinAbsSumOfTwo().solution(new int[] { 1, 4, -3 }));
+//		System.out.println(new MinAbsSumOfTwo().solution(new int[] { 1, 4, -3 }));
+		System.out.println(new MinAbsSumOfTwo().solution(new int[] { -8, -1, 0, 0, 0, 5, 3, 13 }));
+		 
 	}
 
 }

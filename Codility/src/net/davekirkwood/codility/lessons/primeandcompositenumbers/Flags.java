@@ -65,18 +65,7 @@ public class Flags {
 	public static void main(String[] args) {
 		
 		System.out.println(new Flags().solution(new int[] { 
-				1,
-			   5,
-			   3,
-			   4,
-			   3,
-			   4,
-			   1,
-			   2,
-			   3,
-			   4,
-			   6,
-			   2
+				1, 2, 1, 2, 1, 2, 1
 		}));
 				
 	}
